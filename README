@@ -1,0 +1,10 @@
+This project keeps some portable functionality from android-4.4_r1, which is suitable for linux platform.
+
+Based on this project, you can write some Android native programs on your PC. It will improve you android native developing efficiency.
+
+It's built on eclipse, you can just import the whole folder into eclipse without any configuration. 
+
+Thanks.
+
+
+carryinfo@163.com
