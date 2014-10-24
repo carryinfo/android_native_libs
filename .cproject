@@ -31,9 +31,9 @@
 									<listOptionValue builtIn="false" value="HAVE_OFF64_T"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.include.paths.2086368917" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/android_native_lib/system/core/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/android_native_lib/frameworks/av/include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/android_native_lib/frameworks/av/include/media/stagefright/foundation}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/system/core/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/frameworks/av/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/frameworks/av/include/media/stagefright/foundation}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.878426856" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
